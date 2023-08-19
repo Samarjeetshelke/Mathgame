@@ -1,5 +1,4 @@
 //if we click on the start button /resest button
-var fs = require('fs');
 
 var playing=false;
 var score=0;
